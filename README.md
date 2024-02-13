@@ -9,7 +9,7 @@ Please run npm run dev and follow the links to view the corresponding solutions:
 1) MCQ Solutions Page or url ending in /MCQ-Answers in your browser
 2) Calculator Solutions Page or url ending in /problem1 in your browser
 3) Responsive Navbar Solution or url ending in /problem2 in your browser
-4) Two Sum II Solution or url ending in /problem3 in your browser* Note: Please use the code editor to see the console.log output.* 
+4) Two Sum II Solution or url ending in /problem3 in your browser *Note: Please use the code editor to see the console.log output.* 
 
 ## Getting Started
 
