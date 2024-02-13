@@ -7,8 +7,8 @@ config.autoAddCss = false;
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Aeon Navbar",
-  description: "A recreation of the Aeon navbar,mobile and desktop",
+  title: "Hazwan Faizul - AEON FrontEnd Assessment",
+  description: "a NextJS page containing solutions to the frontend assessment",
 };
 
 export default function RootLayout({ children }) {
