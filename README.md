@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Contents
+
+![image](https://github.com/HazFaiz/AB-Assessment/assets/46161783/b4628119-4808-4501-9650-21b810f81d80)
+
+Please run npm run dev and follow the links to view the corresponding solutions:
+
+1) MCQ Solutions Page
+2) Calculator Solutions Page
+3) Responsive Navbar Solution
+4) Two Sum II Solution *Note: Please use the code editor to see the console.log output.*
+
 ## Getting Started
 
 First, run the development server:
